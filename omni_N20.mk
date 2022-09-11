@@ -18,7 +18,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := Y9Plus
+PRODUCT_DEVICE := N20
 PRODUCT_NAME := omni_N20
 PRODUCT_BRAND := DOOGEE
 PRODUCT_MODEL := N20
