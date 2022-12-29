@@ -18,7 +18,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := N20
-PRODUCT_NAME := omni_N20
+PRODUCT_NAME := twrp_N20
 PRODUCT_BRAND := DOOGEE
 PRODUCT_MODEL := N20
 PRODUCT_MANUFACTURER := doogee
